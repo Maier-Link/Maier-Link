@@ -2,7 +2,7 @@
 
 🧪 QA Tester | 🔐 Analista de Sistemas | 🤖 Explorador de tecnologías emergentes
 
-Soy Analista de Proyectos con especialización en sistemas de seguridad, actualmente enfocado en QA Testing y automatización. Tengo experiencia en pruebas manuales y automatizadas (Selenium IDE, Appium), y gestión de ciclos de prueba con Jira y Zephyr. Estoy certificado ISTQB® y siempre en busca de soluciones técnicas eficientes, trazables y escalables. Interesado en roles híbridos que integren testing, gestión de proyectos y tecnologías como IA generativa.
+Soy Analista de Proyectos con especialización en sistemas de seguridad, actualmente enfocado en QA Testing y automatización. Tengo experiencia en pruebas manuales y automatizadas (Selenium IDE, Appium), y gestión de ciclos de prueba con Jira y Zephyr. Estoy sacando el certificado ISTQB® y siempre en busca de soluciones técnicas eficientes, trazables y escalables. Interesado en roles híbridos que integren testing, gestión de proyectos y tecnologías como IA generativa.
 
 ## 📌 Experiencia
 - QA en aplicaciones móviles (AppSheet, Appium)
