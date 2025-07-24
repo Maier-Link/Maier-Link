@@ -22,8 +22,14 @@ Selenium · Appium · Jira · Zephyr · Git · Python · Agile · Kanban · QA M
 Reubicación en Madrid para aportar experiencia QA en equipos Agile, con visión técnica y orientación a calidad continua.
 
 ## 🔗 Contacto
-[LinkedIn](https://linkedin.com/in/david-cortez-729969308) | 📧 davidcortez_9@hotmail.com
+
+- 📧 **Correo:** [davidcortez_9@hotmail.com](mailto:davidcortez_9@hotmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/david-cortez-729969308](https://linkedin.com/in/david-cortez-729969308)
+
+---
+
+## 🏅 Certificaciones & Herramientas
+
 ![ISTQB Certified](https://img.shields.io/badge/QA-ISTQB%20Certified-green)
 ![Selenium IDE](https://img.shields.io/badge/Automation-Selenium%20IDE-blue)
 ![Appium](https://img.shields.io/badge/Mobile-Appium-orange)
-
