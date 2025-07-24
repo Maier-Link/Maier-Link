@@ -23,3 +23,7 @@ Reubicación en Madrid para aportar experiencia QA en equipos Agile, con visión
 
 ## 🔗 Contacto
 [LinkedIn](https://linkedin.com/in/david-cortez-729969308) | 📧 davidcortez_9@hotmail.com
+![ISTQB Certified](https://img.shields.io/badge/QA-ISTQB%20Certified-green)
+![Selenium IDE](https://img.shields.io/badge/Automation-Selenium%20IDE-blue)
+![Appium](https://img.shields.io/badge/Mobile-Appium-orange)
+
